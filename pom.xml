@@ -28,7 +28,7 @@
     <artifactId>identity-server-parent</artifactId>
     <packaging>pom</packaging>
     <description>WSO2 Identity Server</description>
-    <version>5.1.0-beta</version>
+    <version>5.1.0-SNAPSHOT</version>
     <name>WSO2 Identity Server</name>
     <url>http://wso2.org/projects/identity</url>
 
@@ -1020,7 +1020,7 @@
     <properties>
         <carbon.identity.version>5.0.2-beta</carbon.identity.version>
         <carbon.identity.jar.version>5.0.2-beta</carbon.identity.jar.version>
-        <product.identity.version>5.1.0-beta</product.identity.version>
+        <product.identity.version>5.1.0-SNAPSHOT</product.identity.version>
         <bcprov.jdk13.version>140</bcprov.jdk13.version>
         <bcprov.jdk15.version>132</bcprov.jdk15.version>
         <sevlet.api.version>2.5</sevlet.api.version>
@@ -1174,7 +1174,7 @@
         <url>https://github.com/wso2/product-is.git</url>
         <developerConnection>scm:git:https://github.com/wso2/product-is.git</developerConnection>
         <connection>scm:git:https://github.com/wso2/product-is.git</connection>
-        <tag>v5.1.0-beta</tag>
+        <tag>HEAD</tag>
     </scm>
 
 
